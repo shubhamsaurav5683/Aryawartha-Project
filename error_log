@@ -1,0 +1,6 @@
+[30-Aug-2018 14:42:55 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/circuitsbox/public_html/directmbaadmissions.com/admin/db.php on line 7
+[30-Aug-2018 14:42:55 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/circuitsbox/public_html/directmbaadmissions.com/admin/db.php on line 7
+[30-Aug-2018 14:42:59 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/circuitsbox/public_html/directmbaadmissions.com/admin/db.php on line 7
+[30-Aug-2018 14:42:59 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/circuitsbox/public_html/directmbaadmissions.com/admin/db.php on line 7
+[01-Sep-2018 07:23:48 UTC] PHP Notice:  Undefined index: id in /home/circuitsbox/public_html/directmbaadmissions.com/blog2.php on line 86
+[01-Sep-2018 07:23:48 UTC] PHP Notice:  Undefined index: id in /home/circuitsbox/public_html/directmbaadmissions.com/blog2.php on line 152
